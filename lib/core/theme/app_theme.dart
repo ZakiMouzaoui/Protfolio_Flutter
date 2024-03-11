@@ -15,7 +15,6 @@ class ThemeColors {
       brightness: Brightness.light,
       fontFamily: 'Poppins',
       primaryColor: primaryColor,
-      backgroundColor: lightBackgroundColor,
       scaffoldBackgroundColor: lightBackgroundColor,
       visualDensity: VisualDensity.adaptivePlatformDensity,
       appBarTheme: AppBarTheme(
@@ -27,7 +26,6 @@ class ThemeColors {
       brightness: Brightness.dark,
       fontFamily: 'Poppins',
       primaryColor: primaryColor,
-      backgroundColor: darkBackgroundColor,
       scaffoldBackgroundColor: const Color(0xFF00040F),
       visualDensity: VisualDensity.adaptivePlatformDensity,
       textTheme: TextTheme(
